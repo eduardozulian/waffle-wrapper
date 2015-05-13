@@ -1,2 +1,2 @@
 # Waffle Wrapper
-Just an empty repository to accomodate [Waffle.io](http://waffle.io)
+Just an empty repository to accomodate and work with multiple repositories within [Waffle.io](http://waffle.io)
